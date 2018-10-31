@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc1bdd17-5234-45ee-8d76-8f21c29d9401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/日志挖掘--处理数据/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程计算π/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/多线程计算π/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc1bdd17-5234-45ee-8d76-8f21c29d9401" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
     <session id="-1745004993">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.opened" value="4" />
@@ -53,7 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/日志挖掘--处理数据/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
+            <state relative-caret-position="155">
               <caret line="50" column="75" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
               <folding>
                 <element signature="e#18#28#0" expanded="true" />
@@ -95,25 +92,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="parallel-computing-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parallel-computing-exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parallel-computing-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parallel-computing-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="日志挖掘--处理数据" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -211,7 +190,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/日志挖掘--处理数据/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
+        <state relative-caret-position="155">
           <caret line="50" column="75" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
           <folding>
             <element signature="e#18#28#0" expanded="true" />
