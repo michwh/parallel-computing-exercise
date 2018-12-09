@@ -1,11 +1,12 @@
-import queue
 import threading
+import queue
+import multiprocessing
 
 
 class ThreadPoolManger:
-    def __init__(self, thread_num):
+    def __init__(self, thread_num, work_queue):
         # 初始化参数
-        self.work_queue = queue.Queue()
+        self.work_queue = work_queue
         self.thread_num = thread_num
         self.__init_threading_pool(self.thread_num)
 
@@ -33,4 +34,3 @@ class ThreadManger(threading.Thread):
             target, args = self.work_queue.get()
             target(*args)
             self.work_queue.task_done()
-
