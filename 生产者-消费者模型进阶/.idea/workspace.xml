@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18f06927-5d59-44ca-bbbf-ca2779017e99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../综合实验/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../综合实验/consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../综合实验/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../综合实验/producer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/consumer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer.py" beforeDir="false" afterPath="$PROJECT_DIR$/producer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queueService.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/搜狗截图20181120144012.png" beforeDir="false" />
-    </list>
+    <list default="true" id="18f06927-5d59-44ca-bbbf-ca2779017e99" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1041">
+            <state relative-caret-position="21">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
@@ -80,6 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,7 +82,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,14 +142,16 @@
       <option name="presentableId" value="Default" />
       <updated>1542698149301</updated>
       <workItem from="1544345719300" duration="308000" />
+      <workItem from="1544351254397" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308000" />
+    <option name="totallyTimeSpent" value="329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.024252223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -189,13 +181,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/queueService.py" />
-    <entry file="file://$PROJECT_DIR$/producer.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="21">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -206,10 +195,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/producer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1041">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="84">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

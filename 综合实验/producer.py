@@ -16,7 +16,8 @@ class Producer(multiprocessing.Process):
         self.s.connect((host, port))
 
     def run(self):
-        for i in range(int(1e6)):
+        # for i in range(int(1e6)):
+        for i in range(10):
             num = random.randint(5e9, 2 ** 63 - 2)
             # 调用消息队列的方法，发送给队列的数字，该进程任务是否完成
             data = 'put,' + str(num) + ',0'
